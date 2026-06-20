@@ -236,6 +236,8 @@ h1.hero-title .accent { color: var(--accent); }
 
 section { padding: 64px 0; }
 
+section#proyecto { padding-top: 96px; }
+
 /* ---------- Article grid ---------- */
 
 .grid-articles {
